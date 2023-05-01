@@ -1,1 +1,17 @@
-
+<bugReport>
+ <number>DL_01</number>
+ <title>Белый экран при клике Бесплатный сундук в магазине</title>
+ <environment>Huawei P30 Pro Android 12</environment>
+ <precondition>None</precondition>
+ <inputs>Login 1 Pass 123</inputs>
+ <STR>
+   <ol>
+    <li>Зайти в магазин</li>
+    <li>Кликнуть Бесплатный сундук</li>
+   </ol> </STR>
+  <ER>Заставка с количеством полученных бриллиантов</ER>
+  <AR>Белый экран</AR>
+  <severity>Major</severity>
+  <priority>Medium</priority>
+  <attachments>None</attachments> 
+</bugReport>
